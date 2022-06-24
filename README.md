@@ -8,7 +8,6 @@
 ## Olá! eu sou o Henrique, e estou estudando C e Python!
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">>
   <a href="https://github.com/Dev-Henrique-Almeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Henrique-Almeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Henrique-Almeida&layout=compact&langs_count=10&theme=dark"/>
