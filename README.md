@@ -1,7 +1,7 @@
 ### Hello! My name is Henrique and I'm a UFAPE student looking for job!
 
 - 🔭 I am currently **taking some C and Python language courses.**
-- 🌱 I’m currently learning **C** and **Python**
+- 🌱 I’m currently learning **C**, **Python**, **HTML**, **CSS** e **Java** 
 - 📫 How to reach me: **henrique.almeida.dev@gmail.com**
 - 😄 Pronouns: **He/Him**
 
