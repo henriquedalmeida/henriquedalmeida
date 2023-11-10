@@ -6,6 +6,9 @@
   <a href="https://github.com/Dev-Henrique-Almeida">
     <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Henrique-Almeida&layout=compact&hide=TSQL&theme=dark" />
   </a>
+    <a href="https://github.com/Dev-Henrique-Almeida">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Henrique-Almeida&theme=dark">
+       </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
