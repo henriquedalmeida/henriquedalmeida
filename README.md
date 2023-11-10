@@ -1,11 +1,11 @@
 ## Olá! Meu nome é Henrique Almeida!
 <div align="center">
   <a href="https://github.com/Dev-Henrique-Almeida">
-
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Henrique-Almeida&show_icons=true&theme=dark)
-
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Henrique-Almeida&layout=compact&langs_count=7&theme=dark"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-Henrique-Almeida&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/Dev-Henrique-Almeida">
+    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Henrique-Almeida&layout=compact&hide=TSQL&theme=dark" />
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
