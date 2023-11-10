@@ -16,8 +16,8 @@
   ##
  
 <div> 
-  <a href = "mailto:Henrique.Almeida.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"     target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-almeida-7b4514232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:henrique.almeida.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"     target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Henrique-Almeida-Silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/h.silvaaah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&                     logo=instagram&logoColor=white" target="_blank"></a>
  
 
