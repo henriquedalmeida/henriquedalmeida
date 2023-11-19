@@ -10,6 +10,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Henrique-Almeida&theme=dark" >
   </a>
 </div>
+
+ ##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
