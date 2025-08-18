@@ -7,7 +7,7 @@
     <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedalmeida&layout=compact&hide=TSQL&theme=dark" />
   </a>
   <a href="https://github.com/henriquedalmeida">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Henrique-Almeida&theme=dark" >
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=henriquedalmeida&theme=dark" >
   </a>
 </div>
 
