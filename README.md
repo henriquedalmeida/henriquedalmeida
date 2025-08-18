@@ -1,12 +1,12 @@
 ## Olá! Meu nome é Henrique Almeida!
 <div align="center">
-  <a href="https://github.com/Dev-Henrique-Almeida">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-Henrique-Almeida&show_icons=true&theme=dark" />
+  <a href="https://github.com/henriquedalmeida">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquedalmeida&show_icons=true&theme=dark" />
   </a>
-  <a href="https://github.com/Dev-Henrique-Almeida">
-    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Henrique-Almeida&layout=compact&hide=TSQL&theme=dark" />
+  <a href="https://github.com/henriquedalmeida">
+    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedalmeida&layout=compact&hide=TSQL&theme=dark" />
   </a>
-  <a href="https://github.com/Dev-Henrique-Almeida">
+  <a href="https://github.com/henriquedalmeida">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Henrique-Almeida&theme=dark" >
   </a>
 </div>
